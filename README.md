@@ -15,7 +15,7 @@
 * Jednoduché zabalení: Parcel js
 ### 📅 S databázemi také umím
 * MongoDb a hlavně nejpoužívanejší "Old great" SQL *(Rok strávený v Accessu vymýšlením všemožných databází)*
-### 🧑‍💻 Programy jenmž ovládám 
+### 🧑‍💻 Programy jenž ovládám 
 * Na prográmování a hry *(koníček)*: Visual studio code, Visual studio, Unreal engine
 * Na databáze: U MongoDB: Atlas; U SQL: MS Access a MySQL
 * Na "officework": všechny programy od Microsoftu a od Googlu
