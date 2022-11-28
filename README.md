@@ -9,7 +9,7 @@
 * C# (Na škole, velice jsem si ho oblíbil, 2 roky)
 ### Co používám na web
 * Basics: Css, Html (Na škole, 2 roky)
-- Na Css preformátor Sass 
+  - Na Css preformátor Sass 
 * Javascript: Svelte, Vue, Sveltekit(serverrendered používam jelikož se dá udělat jednoduše api)
 * Párkrát jsem použil Nest js (Backend framework na Node js)
 * Jednoduché zabalení: Parcel js
