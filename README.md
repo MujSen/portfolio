@@ -1,4 +1,3 @@
-# portfolio
 # Vítejte na mojem portfóliu
 ## Udělat portfólio v githubu se mi zdálo jako super nápad, tak jsem ho i zrealizoval 😁
 ### Co zde můžete vidět
@@ -10,9 +9,9 @@
 * C# (Na škole, velice jsem si ho oblíbil, 2 roky)
 ### Co používám na web
 * Basics: Css, Html (Na škole, 2 roky)
-** Na Css preformátor Sass 
+- Na Css preformátor Sass 
 * Javascript: Svelte, Vue, Sveltekit(serverrendered používam jelikož se dá udělat jednoduše api)
-** Párkrát jsem použil Nest js (Backend framework na Node js)
+* Párkrát jsem použil Nest js (Backend framework na Node js)
 * Jednoduché zabalení: Parcel js
 ### S databázemi také umím
 * MongoDb a hlavně nejpoužívanejší "Old great" SQL (Rok strávený v Accessu vymýšlením všemožných databází)
