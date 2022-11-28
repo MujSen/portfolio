@@ -21,4 +21,4 @@
 * Na "officework": všechny programy od Microsoftu a od Googlu
 * Na Grafiku: Gimp, Inkscape, Photopea, Figma, Adobe: XD, PhotoShop, Ilustrátor, Premier, Lightroom, 
   - Audacity *(Miluji opravu zvuku, na škole, 1 rok)*
-To je asi všechno přátelé 😎
+## To je asi všechno přátelé 😎
