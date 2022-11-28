@@ -10,7 +10,7 @@
 ### 🕸️ Co používám na web
 * Basics: Css, Html *(Na škole, 2 roky)*
   - *Na Css preformátor Sass*
-* Javascript: Svelte, Vue, Sveltekit *(server-rendered, používam jelikož se dá jednoduše udělat api)*
+* Javascript: Svelte, Vue, Sveltekit *(<-server-rendered, používam jelikož se dá jednoduše udělat api)*
 * Párkrát jsem použil Nest js *(Backend framework na Node js)*
 * Jednoduché zabalení: Parcel js
 ### 📅 S databázemi také umím
