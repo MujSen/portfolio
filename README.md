@@ -1,10 +1,8 @@
 # Vítejte na mojem portfóliu 📖
 ## Udělat portfólio v githubu se mi zdálo jako super nápad, tak jsem ho i zrealizoval 😁
 ### Co zde mám uschováno za projekty 👀
-* 🖌️ Design stránek a propagačních věcí - link ->
-* 🪧 Úprava fotek - link ->
-* 🕸️ Nakódované stránky - link ->
-* možná další věci - pokud tento text vidíte, tak je to teprve "work in progress 😊"
+* 🖌️ Design - link ->
+* 🕸️ Kód - link ->
 ### 💪 S jakými jazyky umím programovat
 * C# *(Na škole, velice jsem si ho oblíbil, 2 roky)*
 ### 🕸️ Co používám na web
