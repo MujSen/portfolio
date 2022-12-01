@@ -2,7 +2,7 @@
 ## Udělat portfólio v githubu se mi zdálo jako super nápad, tak jsem ho i zrealizoval 😁
 ### Co zde mám uschováno za projekty 👀
 * 🖌️ Design - link ->
-* 🕸️ Kód - link ->
+* 🕸️ Kód - link -> https://github.com/MujSen/portfolio/tree/main/kod
 ### 💪 S jakými jazyky umím programovat
 * C# *(Na škole, velice jsem si ho oblíbil, 2 roky)*
 ### 🕸️ Co používám na web
