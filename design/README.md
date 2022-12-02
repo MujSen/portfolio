@@ -8,10 +8,10 @@
 * - https://www.figma.com/file/XXK9KIk6AVpnhgd1yriiKz/Untitled?t=0gbm48Ceo4DcyCEx-6
 * Design concept - Hero stránka jen
 * - https://www.figma.com/file/gMVI8XDtzX5QESyayyVD9L/Untitled?t=0gbm48Ceo4DcyCEx-6
-## Cedule na plotě
-* - (https://raw.githubusercontent.com/MujSen/portfolio/main/design/20221129_152736.jpg)
-## Poukaz
-* - (https://raw.githubusercontent.com/MujSen/portfolio/main/design/lolctyr.jpg)
+## Cedule na plotě, děláno před delší dobou :)
+* - ![](https://raw.githubusercontent.com/MujSen/portfolio/main/design/20221129_152736.jpg)
+## Poukaz, první poukaz
+* - ![](https://raw.githubusercontent.com/MujSen/portfolio/main/design/lolctyr.jpg)
 ## Photoshop
 * Přidání kluka z obrázku s komplikovanějším pozadí originální obrázky
 * - https://pixabay.com/photos/stairs-happy-child-boy-7152763/
