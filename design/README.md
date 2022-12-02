@@ -1,3 +1,3 @@
 # Upload in progress...
 ##Photoshop
-![Zde by měl být obrázek kluka sedícího na kočce](http://url/to/img.png)
+![Zde by měl být obrázek kluka sedícího na kočce](https://raw.githubusercontent.com/MujSen/portfolio/main/design/kockaakluk.jpg)
