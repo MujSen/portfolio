@@ -1,0 +1,25 @@
+body{
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: white;
+  padding: 25px
+}
+ul{
+  list-style-type: none;
+}
+li{
+  display: inline-block;
+  font-size: 60px;
+}
+li:nth-child(1){
+  list-style:square;
+}
+p{
+  font-size: 80px;
+  margin: 0 auto;
+  width: fit-content;
+}
+ul{
+  margin: 0 auto;
+  width: fit-content;
+  padding: 0;
+}
