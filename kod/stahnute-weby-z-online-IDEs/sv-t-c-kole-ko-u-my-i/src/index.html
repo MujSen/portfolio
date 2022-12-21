@@ -1,0 +1,17 @@
+<nav>
+  <ul>
+    <li><p>Ahoj</p></li>
+    <li><p>Jak je</p></li>
+    <li><p>Už na něco klikni :)</p></li>
+  </ul>
+</nav>
+
+<div id="ocko"></div>
+<div id="particles-js"></div>
+<script>
+  let ocko = document.querySelector("#ocko");
+onmousemove = function(e){
+    ocko.style.top = (e.clientY-10+window.pageYOffset).toString()+"px";
+    ocko.style.left = (e.clientX-5).toString()+"px";
+}</script>
+<script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> 
