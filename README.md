@@ -1,6 +1,6 @@
 # Vítejte na mojem portfóliu 📖
-## Udělat portfólio v githubu se mi zdálo jako super nápad, tak jsem ho i zrealizoval 😁
-### Co zde mám uschováno za projekty 👀
+## Udělat portfólio v githubu se mi zdálo jako super nápad, tak jsem ho i zrealizoval
+### Co zde mám uschováno za projekty
 * 🖌️ Design - link -> https://github.com/MujSen/portfolio/tree/main/design
 * 🕸️ Kód - link -> https://github.com/MujSen/portfolio/tree/main/kod
 ### 💪 S jakými jazyky umím programovat
@@ -18,4 +18,3 @@
 * Na "officework": všechny programy od Microsoftu a od Googlu
 * Na Grafiku: Gimp, Inkscape, Photopea, Figma, Adobe: XD, PhotoShop, Ilustrátor, Premier, Lightroom, 
   - Audacity *(Miluji opravu zvuku, na škole, 1 rok - ironie)*
-## To je asi všechno přátelé 😎
