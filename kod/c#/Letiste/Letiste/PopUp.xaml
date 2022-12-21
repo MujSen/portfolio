@@ -1,0 +1,16 @@
+﻿<Window x:Class="Letiste.PopUp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Letiste"
+        mc:Ignorable="d"
+        Title="PopUp" Height="277.869" Width="493.989">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="40" Width="466" TextAlignment="Center"><Run Text="Děkujeme že jste si stáhli"/><Run Text=" reprezentační"/><Run Text=" demo verzi našeho programu."/><LineBreak/><Run Text="Demo verze je limitována: "/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="172,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="- funkcemi"/><LineBreak/><Run Text="- zabezpečením dat"/><LineBreak/><Run Text="- online podporou"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="59,141,0,0" TextWrapping="Wrap" Text="Kupte si plnou verzi se všemi nástroji " VerticalAlignment="Top"/>
+        <Button Content="zde" HorizontalAlignment="Left" Margin="257,139,0,0" VerticalAlignment="Top" Width="35" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF396DF7" Click="Button_Click"/>
+
+    </Grid>
+</Window>

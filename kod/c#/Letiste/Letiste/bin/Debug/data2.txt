@@ -1,0 +1,3 @@
+jmeno: Adam prijmeni: Šrámek hmotnost: 55 hmotnost zavazadla: 10 Je člen posádky
+jmeno: Vítek prijmeni: Vráňa hmotnost: 80 hmotnost zavazadla: 12 Je pasažér
+jmeno: Vláďa prijmeni: Brantik hmotnost: 120 hmotnost zavazadla: 0 Je člen posádky
