@@ -17,4 +17,4 @@
 * Na databáze: U MongoDB: Atlas; U SQL: MS Access a MySQL
 * Na "officework": všechny programy od Microsoftu a od Googlu
 * Na Grafiku: Gimp, Inkscape, Photopea, Figma, Adobe: XD, PhotoShop, Ilustrátor, Premier, Lightroom, 
-  - Audacity *(Miluji opravu zvuku, na škole, 1 rok - ironie)*
+  - Audacity
