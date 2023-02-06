@@ -27,7 +27,11 @@ Po stáhnutí a rozbalení:
 ### src > components
   - _Zde se ukládají komponenty (kód jenž lze znovu využívat, má v sobě svůj styl, svojí logiku a template)_
 - Kosik.vue
+  - Používá kosik.js pro zjištění počtu položek.
+  - Pokud není žádná, nezobrazí počet položek ani jako 0 pokud 0 < zobrazí 1,2... uprostřed košíku 
 - Produkt.vue
+  - Manipuluje s kosik.js
+  - Vykonává všechny funkce, od přídávání položek, po odstraňování. Velmi komplexní. 
 ### src > router
 - index.js _> importuje views z ../views a přiřazuje jim cestu._
 - / _-> home -> HomeView -> ../views/HomeView.vue zobrazí se po načtení stránky, titulní stránka_
