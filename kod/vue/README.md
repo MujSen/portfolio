@@ -1,6 +1,6 @@
 # vue aplikace s názvem vstupni-test
-- Pinia pro ukládání globálních proměnných ve storu
-- Router pro navigaci stránek
+- Pinia _pro ukládání globálních proměnných ve storu_
+- Router _pro navigaci stránek_
 
 ## Jak spustit aplikaci
 Aplikace je napsáná ve vue. Je teda potřeba mít node.js nainstalovaný.
@@ -10,34 +10,37 @@ Po stáhnutí a rozbalení:
 - Příkaz cd...
 - npm install...
 - npm run dev
-  - Projekt je nyní stáhnutý, node-modules jsou nainstalované a live server běží na localhost
+  - _Projekt je nyní stáhnutý, node-modules jsou nainstalované a live server běží na localhost_
 
 ## Vysvětlení projektu
 ### Projekt se skládá z 2 komponentů
-- Kosik.vue, pro App.js
-- Produkt.vue, pro HomeView.vue
+- Kosik.vue, _pro App.js_
+- Produkt.vue, _pro HomeView.vue_
 ### 3 views
-  - jsou pak používany v App.js pro přepínání stránek
+  - _jsou pak používany v App.js pro přepínání stránek_
 - HomeView.vue
 - KosikView.vue
 - ProfilView.vue
 ### 2 storů
-- kosik.js, pro Kosik.vue a Produkt.vue
-- profil.js, pro ProfilView.vue
-### src > components - Zde se ukládají komponenty (kód jenž lze znovu využívat, má v sobě svůj styl, svojí logiku a template)
+- kosik.js, _pro Kosik.vue a Produkt.vue_
+- profil.js, _pro ProfilView.vue_
+### src > components
+  - _Zde se ukládají komponenty (kód jenž lze znovu využívat, má v sobě svůj styl, svojí logiku a template)_
 - Kosik.vue
 - Produkt.vue
 ### src > router
-- index.js > importuje views z ../views a přiřazuje jim cestu.
-- / -> home -> HomeView -> ../views/HomeView.vue zobrazí se po načtení stránky, titulní stránka
-- /kosik -> kosik -> KosikView -> ../views/KosikView.vue přepne uživatele do košíku po kliknutí na košík
-- /profil -> profil -> ProfilView -> ../views/ProfilView.vue přepne uživatele do profilu
-struktura v App.js (jak to vypadá)
-img
-nav > RouterLink - přepíná mezi stránky
-RouterView - zobrazuje stránky
+- index.js _> importuje views z ../views a přiřazuje jim cestu._
+- / _-> home -> HomeView -> ../views/HomeView.vue zobrazí se po načtení stránky, titulní stránka_
+- /kosik _-> kosik -> KosikView -> ../views/KosikView.vue přepne uživatele do košíku po kliknutí na košík_
+- /profil _-> profil -> ProfilView -> ../views/ProfilView.vue přepne uživatele do profilu_
+struktura v App.js _(jak to vypadá)_
+**img**
+**nav** _> RouterLink - přepíná mezi stránky_
+**RouterView** _- zobrazuje stránky_
 ### src > stores
-- kosik.js <- Má svoje funkce a proměnné, cílem je aby manipuloval sám se svýma proměnnýma a jakýkoliv kód, co ho používá, používá jenom jeho funkce. Pro testování jsem nechal některé proměnné přístupné
+- kosik.js
+    - Má svoje funkce a proměnné, cílem je aby manipuloval sám se svýma proměnnýma, když se používá, používá jenom funkce.
+    - Pro testování jsem nechal některé proměnné přístupné
   - count
     - má v sobě počet položek v košíku
   - polozky
