@@ -13,14 +13,15 @@ Po stáhnutí a rozbalení:
   - Projekt je nyní stáhnutý, node-modules jsou nainstalované a live server běží na localhost
 
 ## Vysvětlení projektu
-Projekt se skládá z 2 komponentů
+### Projekt se skládá z 2 komponentů
 - Kosik.vue, pro App.js
 - Produkt.vue, pro HomeView.vue
-3 views jenž jsou pak používany v App.js pro přepínání stránek
+### 3 views
+  - jsou pak používany v App.js pro přepínání stránek
 - HomeView.vue
 - KosikView.vue
 - ProfilView.vue
-2 storů
+### 2 storů
 - kosik.js, pro Kosik.vue a Produkt.vue
 - profil.js, pro ProfilView.vue
 ### src > components - Zde se ukládají komponenty (kód jenž lze znovu využívat, má v sobě svůj styl, svojí logiku a template)
@@ -37,9 +38,12 @@ nav > RouterLink - přepíná mezi stránky
 RouterView - zobrazuje stránky
 ### src > stores
 - kosik.js <- Má svoje funkce a proměnné, cílem je aby manipuloval sám se svýma proměnnýma a jakýkoliv kód, co ho používá, používá jenom jeho funkce. Pro testování jsem nechal některé proměnné přístupné
-  - count <- má v sobě počet položek v košíku
-  - polozky <- uchovává položky
-  - cenaZaVse  <- celková cena za všechny položky
+  - count
+    - má v sobě počet položek v košíku
+  - polozky
+    - uchovává položky
+  - cenaZaVse  
+    - celková cena za všechny položky
   - pridejDoPole()
     - Manipuluje s polozky, odstraňuje + přidává. 
     - Manipuluje s count, sčítá + odčítá
