@@ -5,10 +5,24 @@
 ## Jak spustit aplikaci
 Aplikace je napsáná ve vue. Je teda potřeba mít node.js nainstalovaný.
 Po stáhnutí a rozbalení:
-- Zapněte cmd > najděte cestu k souboru, příkaz cd > npm install > npm run dev
-Projekt je nyní stáhnutý, node-modules jsou nainstalované a live server běží na localhost
+- Zapněte cmd...
+- Najděte cestu k souboru...
+- Příkaz cd...
+- npm install...
+- npm run dev
+  - Projekt je nyní stáhnutý, node-modules jsou nainstalované a live server běží na localhost
 
 ## Vysvětlení projektu
+Projekt se skládá z 2 komponentů
+- Kosik.vue, pro App.js
+- Produkt.vue, pro HomeView.vue
+3 views jenž jsou pak používany v App.js pro přepínání stránek
+- HomeView.vue
+- KosikView.vue
+- ProfilView.vue
+2 storů
+- kosik.js, pro Kosik.vue a Produkt.vue
+- profil.js, pro ProfilView.vue
 ### src > components - Zde se ukládají komponenty (kód jenž lze znovu využívat, má v sobě svůj styl, svojí logiku a template)
 - Kosik.vue
 - Produkt.vue
