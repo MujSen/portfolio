@@ -10,6 +10,8 @@
 - Web jen na online viditelnost měl být hotov do dne
 - https://www.chcipujcitauto.cz/
 - Jeden z více komplexních kde jsem využil i php bylo v plánu ho předělat do sveltekit nebo nuxt
+- https://cerulean-seahorse-ee2d66.netlify.app/
+- Teď dělaný bohužel nedodělaný projekt kdy jsem zkusil udělat základní funkcionalitu fora
 ### Co zde mám uschováno za projekty
 * 🖌️ Design - link -> https://github.com/MujSen/portfolio/tree/main/design
 * 🕸️ Kód - link -> https://github.com/MujSen/portfolio/tree/main/kod
