@@ -3,16 +3,12 @@
 * Seznam webů:
 ** Weby jenž tu jsou uvedeny nejsou dělány s frameworkem jen s trochou php... Frameworky jsem zatím využíval jen na interních systémech v sekci /kod/* je uvedeno pár projektů jenž jsou dělány jako soft start.
 - https://www.equicoach.cz/
-- Web na rychlo (2 dny i s komunikací), předem stanovenék klientem jak mají určité věci vypadat
 - https://www.stanislavabestova.cz/
-- Web, který měl být jednoduchý a nepřekomplikovaný + design vizitky
 - https://vrakovisteostrava.cz/
-- Web jen na online viditelnost měl být hotov do dne
 - https://www.chcipujcitauto.cz/
-- Jeden z více komplexních kde jsem využil i php bylo v plánu ho předělat do sveltekit nebo nuxt
+- Asi už nejde
 - https://cerulean-seahorse-ee2d66.netlify.app/
-- Teď dělaný bohužel nedodělaný projekt kdy jsem zkusil udělat základní funkcionalitu fora
-- Funguje Přihlášení Přidávání vypisování - problém u vypisování threads
+- Funkcionalita fora se sveltekit a databází
 ### Co zde mám uschováno za projekty
 * 🖌️ Design - link -> https://github.com/MujSen/portfolio/tree/main/design
 * 🕸️ Kód - link -> https://github.com/MujSen/portfolio/tree/main/kod
