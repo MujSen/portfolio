@@ -3,9 +3,8 @@
 * Seznam webů:
 ** Weby jenž tu jsou uvedeny nejsou dělány s frameworkem jen s trochou php... Frameworky jsem zatím využíval jen na interních systémech v sekci /kod/* je uvedeno pár projektů jenž jsou dělány jako soft start.
 - https://www.equicoach.cz/
-- https://www.stanislavabestova.cz/
 - https://vrakovisteostrava.cz/
-- https://www.chcipujcitauto.cz/
+- https://www.stanislavabestova.cz/
 - Asi už nejde
 - https://cerulean-seahorse-ee2d66.netlify.app/
 - Funkcionalita fora se sveltekit a databází
