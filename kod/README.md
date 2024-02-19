@@ -8,6 +8,7 @@
 * login form a listování ve Vue https://codesandbox.io/s/pensive-ganguly-of9qub?file=/src/App.vue
 * routing ve Vue https://codesandbox.io/s/infallible-pascal-mojd25
 ## Deploynutá stránka
+* https://www.equicoach.cz/
 * https://vrakovisteostrava.cz/
 ## c#
 * https://github.com/MujSen/portfolio/tree/main/kod/c%23
