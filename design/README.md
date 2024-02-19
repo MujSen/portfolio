@@ -1,13 +1,6 @@
 # Upload in progress...
-## Design webovky
-* Mobil design
-* - https://www.figma.com/proto/Lv9jPcFgnhhUP7vnJemBqM/Untitled?node-id=0%3A1
-* Web design (Bez dalších nápadů na další stránky)
-* - https://www.figma.com/file/iSTVWkYQWIZFO1b8c41Ofw/FotkyPrirody?node-id=0%3A1
-* Portfolio základní struktura (pozastaveno)
-* - https://www.figma.com/file/XXK9KIk6AVpnhgd1yriiKz/Untitled?t=0gbm48Ceo4DcyCEx-6
-* Design concept - Hero stránka jen
-* - https://www.figma.com/file/gMVI8XDtzX5QESyayyVD9L/Untitled?t=0gbm48Ceo4DcyCEx-6
+## Designy ve figmě
+* - https://www.figma.com/file/DvVlXAKj2VLIEnAKUiQ1Xj/ShowCase?type=design&node-id=1%3A2185&mode=design&t=EJBDh9EUdSbCwMdA-1
 ## Cedule na plotě, děláno před delší dobou :)
 * - ![](https://raw.githubusercontent.com/MujSen/portfolio/main/design/20221129_152736.jpg)
 ## Poukaz, první poukaz
