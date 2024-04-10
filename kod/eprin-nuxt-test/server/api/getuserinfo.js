@@ -1,6 +1,8 @@
 import { getUserInfoFromToken } from "../utils/getUserInfoFromToken";
 
+
 export default defineEventHandler(async (event) => {
+  console.log("ZAVOLAN");
   const token = await handleToken(event);
   if (token == false) {
     console.log("FALSE");

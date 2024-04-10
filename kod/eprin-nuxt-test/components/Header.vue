@@ -3,13 +3,13 @@
     const { status, data, signOut, signIn } = useAuth()
 </script>
 <template>
-    <header v-if="props.userData && props.userData.data">
+    <header v-if="props?.userData?.data">
       <div class="card">
         <div class="profileImage w-32">
         </div>
         <div class="textContainer">
-          <p v-if="props.userData.data.fullName" class="name">{{ props.userData.data.fullName }}</p>
-          <ul class="profile" v-if="props.userData.data.roles" v-for="item in props.userData.data.roles">
+          <p v-if="props?.userData?.data?.fullName" class="name">{{ props.userData.data.fullName }}</p>
+          <ul class="profile" v-if="props?.userData?.data?.roles" v-for="item in props.userData.data.roles">
             <li>{{ item.name }}</li>
           </ul>
           <button v-if="status === 'authenticated'" class="flex items-center justify-center space-x-2 bg-red-500 text-white rounded-lg py-1 px-3 text-md" @click="signOut({ callbackUrl: '/' })">
@@ -17,8 +17,8 @@
           </button>
         </div>
       </div>
-        <div class="branch" v-if="props.userData && props.userData.data">
-            <img v-if="props.userData.data.wasteCompanyBranch && props.userData.data.wasteCompanyBranch.logoUrl"
+        <div class="branch" v-if="props?.userData?.data">
+            <img v-if="props.userData.data.wasteCompanyBranch?.logoUrl"
                 :src="'https://api-ts-dev.jrkdigital.eu/' + props.userData.data.wasteCompanyBranch.logoUrl" alt="profile img">
         </div>
     </header>

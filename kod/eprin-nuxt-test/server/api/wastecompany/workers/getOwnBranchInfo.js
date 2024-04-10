@@ -1,4 +1,4 @@
-//Použije se jen pro sebe nedovolí uživateli zovrazit jiné id
+//Použije se jen pro sebe nedovolí uživateli zobrazit jiné id
 export default defineEventHandler(async (event) => {
   const token = await handleToken(event);
   const userId = await getUserInfoFromToken(event);
@@ -9,6 +9,7 @@ export default defineEventHandler(async (event) => {
   if (!userId.wasteCompanyBranch.id) {
     throw new Error("Nemáš ID!");
   }
+
   try {
     const response = await fetch(
       "https://api-ts-tablet-test.jrkdigital.eu/v1/waste-company/" +
@@ -32,6 +33,7 @@ export default defineEventHandler(async (event) => {
     const data = await response.json();
     return { data };
   } catch (error) {
+
     //console.error("There was a problem with your fetch operation:", error);
     throw new Error(error.message)
   }

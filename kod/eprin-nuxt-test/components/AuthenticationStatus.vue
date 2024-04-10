@@ -13,7 +13,7 @@ const { status, data, signOut, signIn } = useAuth()
           alt="User Avatar"
         >
         <h1 v-if="status === 'authenticated'" class="text-lg">
-          Authenticated as {{ data?.user?.name }}!
+          Authenticated as {{ data.user.name }}!
           {{ data }}
         </h1>
         <h1 v-else>

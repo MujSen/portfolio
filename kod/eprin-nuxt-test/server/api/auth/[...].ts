@@ -1,7 +1,7 @@
 import { NuxtAuthHandler } from '#auth'
 
 export default NuxtAuthHandler({
-
+  secret: process.env.AUTH_SECRET,
   providers: [
     {
       id: 'openid-connect',
@@ -46,7 +46,6 @@ export default NuxtAuthHandler({
       },
     }
   ],
-  secret: process.env.AUTH_SECRET,
   session: {
     strategy: 'jwt', // <-- make sure to use jwt here
     maxAge: 30 * 24 * 60 * 60
