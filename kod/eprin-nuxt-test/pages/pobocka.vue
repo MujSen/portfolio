@@ -6,5 +6,5 @@
 
 </script>
 <template>
-    <WorkersTableSelf :wasteCompanyBranch="props.wasteCompanyBranch"/>
+    <WorkersTableSelf v-if="props?.wasteCompanyBranch" :wasteCompanyBranch="props.wasteCompanyBranch"/>
 </template>
